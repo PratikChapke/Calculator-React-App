@@ -6,6 +6,8 @@ Users to perform mathematical operations such as :
 *multiplication
 *division on their phone.
 
+### UI Calculator App ###
+![Screenshot (397)](https://user-images.githubusercontent.com/82867372/216123545-384cf9c8-7470-49e3-b06d-feb0adb425c7.png)
 
 
 # Getting Started with Create React App
